@@ -105,6 +105,8 @@
                                     Remember me
                                 </label>
                             </div>
+
+
                             <div class="forgot">
                                 <a href="#" style="color: #7132f5 !important;text-decoration: underline;text-align: center;">Forgot password</a>
                             </div>
