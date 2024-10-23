@@ -111,6 +111,7 @@
                                 <a href="#" style="color: #7132f5 !important;text-decoration: underline;text-align: center;">Forgot password</a>
                             </div>
                         </div>
+                        
                         <button name="btnLoginMore" type="submit" class="btn btn-block btn-primary">Sign In</button>
                         <p style="text-align: center; display: block; margin-top: 40px; color: #6f6f6f !important;font-size: 15px;" href="">Don't have an account? <a href="#" style="color: #7132f5 !important">Sign up</a></p>
                     </form>
