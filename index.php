@@ -24,7 +24,7 @@
     ?>
         <div class="main-container">
         <div class="left">
-                <img src="assets/images/kiraken.png" alt="">
+                <img src="assets/images/kiraken.jpg" alt="">
             </div>
             <div class="right">
                 <img style="width: 100%;" src="assets/images/kirakenright.png" alt="">
@@ -54,10 +54,10 @@
     ?>
         <div class="main-container">
             <div class="left">
-                <img src="assets/images/kiraken.png" alt="">
+                <img src="assets/images/kiraken.jpg" alt="">
             </div>
             <div class="right">
-                <img style="width: 100%;" src="assets/images/kirakenright.png" alt="">
+                <img style="width: 100%;" src="assets/images/kirakenright.jpg" alt="">
                 <div class="container-fluid errorDiv" id="welcome-section">
                     <form action="" method="post" style="">
                         <h2 id="heading" style="color: red;">Important Message!<span></span></h2>
